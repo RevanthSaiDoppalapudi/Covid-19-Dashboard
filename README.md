@@ -1,4 +1,11 @@
-# COVID-19 Tracker
+# COVID-19 Dashboard - By Revanth sai Doppalpudi
+Basically this website is buit to track the upto date covid-19 data
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+# Link for the deployed web site 
+(https://covid-19-dashboard-project.netlify.app/)
+
+# Sources we used in this project 
+API used: https://covid19.mathdro.id/api
+
+
 
